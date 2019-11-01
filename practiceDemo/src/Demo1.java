@@ -21,5 +21,4 @@ public class Main {
         System.out.println("小球在第10次落地时共经过：" + sum + "米");
         System.out.println("第10次反弹：" + high + "米");
     }
-
 }
